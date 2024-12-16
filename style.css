@@ -32,6 +32,10 @@
   margin: 0 auto 0;
 }
 
+.add-task {
+  margin: 1em 0;
+}
+
 .task-label,
 .task-input-text {
   width: 56%;
